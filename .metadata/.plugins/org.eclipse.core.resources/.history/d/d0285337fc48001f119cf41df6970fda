@@ -1,0 +1,13 @@
+
+public class AulaVariaveis {
+
+	public static void main(String[] args) {
+		
+		int minhaIdade;
+		minhaIdade = 49;
+		
+		System.out.println("Minha idade é " + minhaIdade);
+
+	}
+
+}
