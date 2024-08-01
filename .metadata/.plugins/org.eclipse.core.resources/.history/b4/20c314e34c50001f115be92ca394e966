@@ -1,0 +1,15 @@
+
+public class ExemploInt {
+
+	public static void main(String[] args) {
+		
+		int populacaoOsasco = 155_000;
+		//int populacaoOsasco2 = 2_147_483_648; // -> não compila
+		int populacaoOsasco2 = 2_147_483_647;
+		
+		System.out.println(populacaoOsasco);
+		System.out.println(populacaoOsasco2);
+
+	}
+
+}
