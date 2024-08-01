@@ -1,0 +1,13 @@
+
+public class ExemploByteShort {
+
+	public static void main(String[] args) {
+
+		byte idade = 127;
+		// byte idade2 = 128; -> não compila
+
+		System.out.println(idade);
+
+	}
+
+}
