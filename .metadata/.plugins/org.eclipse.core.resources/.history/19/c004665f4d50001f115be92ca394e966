@@ -1,0 +1,12 @@
+
+public class ExemploLong {
+
+	public static void main(String[] args) {
+
+		long populacaoOsasco = 699_097;
+
+		System.out.println(populacaoOsasco);
+
+	}
+
+}
